@@ -1,1 +1,0 @@
-import{f as a,a as r}from"../chunks/TtqJC7uN.js";import"../chunks/CMRutrrH.js";import{$ as m,n as p}from"../chunks/riVW6D5W.js";import{h as e}from"../chunks/DI35fmc-.js";import"../chunks/CHAv3YR4.js";var s=a("<h1>About ElastoTool</h1> <p>This is the about page for ElastoTool.</p>",1);function c(o){var t=s();e(n=>{m.title="About - ElastoTool"}),p(2),r(o,t)}export{c as component};
