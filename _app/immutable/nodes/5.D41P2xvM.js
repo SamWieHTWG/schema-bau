@@ -1,0 +1,1 @@
+import"../chunks/CWj6FrbW.js";import"../chunks/BAx6UVK2.js";import{f as a,a as r,$ as n,n as p}from"../chunks/CYgxmeMi.js";import{h as m}from"../chunks/BOWCT1g0.js";import"../chunks/C59jQwUp.js";var e=a("<h1>Contact Us</h1> <p>This is the contact page for ElastoTool.</p>",1);function $(o){var t=e();m(s=>{n.title="Contact - ElastoTool"}),p(2),r(o,t)}export{$ as component};
